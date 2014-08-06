@@ -1094,13 +1094,16 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f050016;
         public static final int action_menu_presenter=0x7f050017;
         public static final int action_mode_close_button=0x7f050024;
-        public static final int action_settings=0x7f050045;
+        public static final int action_settings=0x7f05004a;
         public static final int activity_chooser_view_content=0x7f050025;
-        public static final int alarm_set=0x7f05003e;
+        public static final int alarm_set=0x7f050048;
+        public static final int alarm_set1=0x7f05003e;
+        public static final int alarm_set2=0x7f050040;
+        public static final int alarm_set3=0x7f050042;
         public static final int alarmstop=0x7f05003d;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
-        public static final int cancel_set=0x7f050044;
+        public static final int cancel_set=0x7f050049;
         public static final int checkbox=0x7f05002d;
         public static final int collapseActionView=0x7f05000d;
         public static final int container=0x7f05003c;
@@ -1123,7 +1126,7 @@ containing a value of this type.
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
         public static final int normal=0x7f050000;
-        public static final int number_picker=0x7f050041;
+        public static final int number_picker=0x7f050045;
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
         public static final int radio=0x7f05002f;
@@ -1143,13 +1146,15 @@ containing a value of this type.
         public static final int showTitle=0x7f050006;
         public static final int split_action_bar=0x7f05001e;
         public static final int submit_area=0x7f050039;
+        public static final int switch1=0x7f05003f;
+        public static final int switch2=0x7f050041;
+        public static final int switch3=0x7f050043;
         public static final int tabMode=0x7f050002;
-        public static final int time_picker=0x7f050040;
+        public static final int time_picker=0x7f050044;
         public static final int title=0x7f05002b;
-        public static final int toggleswitch=0x7f05003f;
         public static final int top_action_bar=0x7f050020;
-        public static final int twitteraccount=0x7f050042;
-        public static final int twittermessage=0x7f050043;
+        public static final int twitteraccount=0x7f050046;
+        public static final int twittermessage=0x7f050047;
         public static final int up=0x7f050021;
         public static final int useLogo=0x7f050003;
         public static final int withText=0x7f05000c;
@@ -1258,7 +1263,7 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
         public static final int action_settings=0x7f0a000f;
         public static final int alarm_set=0x7f0a0014;
-        public static final int alarmstop=0x7f0a001d;
+        public static final int alarmstop=0x7f0a0019;
         public static final int app_name=0x7f0a000d;
         public static final int current_time=0x7f0a0013;
         public static final int first_activity_button_label=0x7f0a0012;
@@ -1268,11 +1273,7 @@ containing a value of this type.
         public static final int setting_days=0x7f0a0016;
         public static final int setting_mc=0x7f0a0018;
         public static final int setting_time=0x7f0a0015;
-        public static final int setting_twitter=0x7f0a0019;
         public static final int setting_volume=0x7f0a0017;
-        public static final int switch1=0x7f0a001a;
-        public static final int switch2=0x7f0a001b;
-        public static final int switch3=0x7f0a001c;
     }
     public static final class style {
         /** 

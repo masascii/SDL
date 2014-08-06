@@ -13,11 +13,6 @@
     <string name="setting_days">曜日設定</string>
     <string name="setting_volume">アラーム音量</string>
     <string name="setting_mc">鳴動時間：</string>
-    <string name="setting_twitter">ToReply</string>
-    <string name="switch1">on</string>
-    <string name="switch2">on</string>
-    <string name="switch3">on</string>
     <string name="alarmstop">OK</string>
     
-
 </resources>
